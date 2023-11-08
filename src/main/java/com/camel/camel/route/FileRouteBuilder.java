@@ -16,6 +16,10 @@ public class FileRouteBuilder extends RouteBuilder {
 
 	@Override
 	public void configure() throws Exception {
+		
+		
+		/// PLEASE READ ABOUT CAMEL IN UR WORKTIPS -> INTERVIEW PREPARATION
+		
 
 		// TO RUN ::::::::::::::::::::::::
 		// 1. For this Eg, we need to create 2 APIs. and make it up and running in separate springboot application. These are dummy thired party apis.
